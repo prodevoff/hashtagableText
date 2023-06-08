@@ -85,7 +85,7 @@ class _TextFieldSelectionGestureDetectorBuilder
   }
 
   @override
-  void onSingleTapUp(TapUpDetails details) {
+  void onSingleTapUp(TapDragUpDetails details) {
     editableText.hideToolbar();
     if (delegate.selectionEnabled) {
       switch (Theme.of(_state.context).platform) {
@@ -103,6 +103,9 @@ class _TextFieldSelectionGestureDetectorBuilder
               // On macOS/iOS/iPadOS a touch tap places the cursor at the edge
               // of the word.
               renderEditable.selectWordEdge(cause: SelectionChangedCause.tap);
+              break;
+            case PointerDeviceKind.trackpad:
+              // TODO: Handle this case.
               break;
           }
           break;
