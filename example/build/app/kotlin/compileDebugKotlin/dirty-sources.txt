@@ -1,0 +1,1 @@
+/Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/android/app/src/main/kotlin/com/example/example/MainActivity.kt

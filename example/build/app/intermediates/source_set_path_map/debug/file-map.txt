@@ -1,0 +1,12 @@
+com.example.example.app-jetified-window-java-1.0.0-beta04-0 /Users/nguyenxuantoan/.gradle/caches/transforms-3/80d6081eea61e03f3216d8a0dd987972/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.example.app-jetified-annotation-experimental-1.1.0-1 /Users/nguyenxuantoan/.gradle/caches/transforms-3/8f52f6b43f8906f517447a73d33afcfa/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.example.app-jetified-window-1.0.0-beta04-2 /Users/nguyenxuantoan/.gradle/caches/transforms-3/a074079bcd6a6bae139913a589599ef9/transformed/jetified-window-1.0.0-beta04/res
+com.example.example.app-core-1.6.0-3 /Users/nguyenxuantoan/.gradle/caches/transforms-3/f5899cc3d299a49ac2dcb618aa4bc423/transformed/core-1.6.0/res
+com.example.example.app-debug-4 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/android/app/src/debug/res
+com.example.example.app-main-5 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/android/app/src/main/res
+com.example.example.app-pngs-6 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/build/app/generated/res/pngs/debug
+com.example.example.app-resValues-7 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/build/app/generated/res/resValues/debug
+com.example.example.app-rs-8 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/build/app/generated/res/rs/debug
+com.example.example.app-mergeDebugResources-9 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.example.app-mergeDebugResources-10 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.example.app-merged_res-11 /Users/nguyenxuantoan/Documents/PROJECT/CUSTOM/hashtagableText/example/build/app/intermediates/merged_res/debug
