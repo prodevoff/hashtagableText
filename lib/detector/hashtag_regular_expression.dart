@@ -18,6 +18,9 @@ const _norwegianLetters = 'åøæ';
 
 const _germanLetters = 'ÄäÖöÜüẞß';
 
+const _vietnameseLetters =
+    'ÀÁÂÃÈÉÊÌÍÒÓÔÕÙÚĂĐĨŨƠàáâãèéêìíòóôõùúăđĩũơƯĂẠẢẤẦẨẪẬẮẰẲẴẶẸẺẼỀỀỂưăạảấầẩẫậắằẳẵặẹẻẽềềểỄỆỈỊỌỎỐỒỔỖỘỚỜỞỠỢỤỦỨỪễệỉịọỏốồổỗộớờởỡợụủứừỬỮỰỲỴÝỶỸửữựỳỵỷỹ';
+
 const _turkishLetters = 'IıÖöŞşÇçÜüĞğ';
 
 const hashTagContentLetters = _symbols +
@@ -28,6 +31,7 @@ const hashTagContentLetters = _symbols +
     _spanishLetters +
     _arabicLetters +
     _thaiLetters +
+    _vietnameseLetters +
     _norwegianLetters +
     _turkishLetters +
     _germanLetters;
